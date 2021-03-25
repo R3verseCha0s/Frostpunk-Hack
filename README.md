@@ -2,7 +2,7 @@
 
 ## About
 
-![The trainer in action](https://github.com/danjaaron/Frostpunk-Hack/blob/master/frostpunk-trainer.PNG)
+![The trainer in action](https://github.com/danjaaron/Frostpunk-Hack/blob/main/frostpunk-trainer.PNG)
 
 This repository contains the source code for a "God Mode" cheat for Frostpunk.
 
